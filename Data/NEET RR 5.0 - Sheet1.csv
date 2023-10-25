@@ -1,0 +1,125 @@
+Lesson Number,Subject,Topic,Hours,Minutes,Total Time
+1,Anatomy,Embryology,4,10,4.17
+2,Anatomy,Neuroanatomy,4,3,4.05
+3,Anatomy,Neuroanatomy 2,3,43,3.72
+4,Anatomy,Back and Thorax,2,30,2.5
+5,Anatomy,Upper and Lower limb,2,2,2.03
+6,Anatomy,Abdomen plevis,3,13,3.22
+8,Anatomy,Image 1,4,54,4.9
+9,Anatomy,Image 2,4,59,4.98
+10,Anatomy,Image 3,1,5,1.08
+11,Anatomy,Image 4,0,46,0.77
+12,Physio,Neuro,2,56,2.93
+13,Physio,General GIT,1,13,1.22
+14,Physio,Cardio,1,33,1.55
+15,Physio,Renal,0,43,0.72
+16,Physio,Endocrine Reproduction,0,39,0.65
+18,Physio,Respiratory,1,8,1.13
+19,Physio,Image 1,1,31,1.52
+20,Physio,Image 2,1,28,1.47
+21,Biochem,Metabolism,1,12,1.2
+22,Biochem,Carbohydrate,1,39,1.65
+23,Biochem,lipid,2,41,2.68
+24,Biochem,ABG,1,23,1.38
+25,Biochem,Amioacid,1,42,1.7
+26,Biochem,Genetics,2,23,2.38
+27,Pathology,Cell injury,3,37,3.62
+28,Pathology,"Genetics, Neoplasia, Immunity",4,11,4.18
+29,Pathology,Systemic Path 1,3,48,3.8
+30,Pathology,Systemic Path 2,3,18,3.3
+31,Pathology,Hematology,2,53,2.88
+32,Pathology,Renal Pathology,1,7,1.12
+33,Pathology,Endocrine,0,32,0.53
+34,Pathology,Image 1,2,55,2.92
+35,Pathology,Image 2,3,33,3.55
+36,Pharmacology,"General, ANS",1,49,1.82
+37,Pharmacology,"Renal, CVS, CNS",1,59,1.98
+38,Pharmacology,"Antimicrobial, Endocrine, GIT",2,40,2.67
+39,Pharmacology,"Autocoids, Blood, Anticancer, Immunosuppresant",1,25,1.42
+40,Pharmacology,Image,1,9,1.15
+41,Microbiology,General,2,24,2.4
+42,Microbiology,Mycology,0,56,0.93
+43,Microbiology,Bacteriology 1,2,32,2.53
+44,Microbiology,Bacteriology 2,2,14,2.23
+45,Microbiology,Virology 1,1,56,1.93
+46,Microbiology,Virology 2,1,26,1.43
+47,Microbiology,Parasite 1,1,18,1.3
+48,Microbiology,Parasite 2,1,21,1.35
+49,Microbiology,Immunology,1,30,1.5
+50,Forensic,1,1,53,1.88
+51,Forensic,2,1,22,1.37
+52,Forensic,3,1,35,1.58
+53,Forensic,Image,1,13,1.22
+54,PSM,Epidemiology,2,5,2.08
+55,PSM,"Nutrition, Social",1,18,1.3
+56,PSM,"Health care, OBG, Geriatrics",1,56,1.93
+57,PSM,"Environment, Screening",1,43,1.72
+58,PSM,"Demography, Education, Communication",2,2,2.03
+59,PSM,Communicable disease,1,54,1.9
+60,PSM,Biostatistics,1,50,1.83
+61,PSM,National Health programs,1,18,1.3
+62,PSM,"Allied Health Disciplines, Contraception.",1,50,1.83
+63,PSM,Image 1,1,30,1.5
+64,PSM,Image 2,2,0,2
+65,ENT,Ear 1,2,13,2.22
+66,ENT,Ear 2,3,8,3.13
+67,ENT,Nose,2,8,2.13
+68,ENT,Pharynx,1,27,1.45
+69,ENT,Larynx,2,5,2.08
+70,ENT,Image,2,17,2.28
+71,Ophthalmology,1,2,36,2.6
+72,Ophthalmology,2,3,32,3.53
+73,Ophthalmology,Image,2,22,2.37
+74,OBG,OB 1,1,54,1.9
+75,OBG,OB 2,2,6,2.1
+76,OBG,OB 3,2,5,2.08
+77,OBG,OB 4,1,46,1.77
+78,OBG,Gyn 1,1,52,1.87
+79,OBG,Gyn 2,1,57,1.95
+80,OBG,Gyn 3,2,38,2.63
+81,OBG,Image,2,5,2.08
+82,Pedia,General,2,51,2.85
+83,Pedia,Neonatology,1,7,1.12
+84,Pedia,Sytemic Peadia,3,0,3
+85,Pedia,Image,2,14,2.23
+86,Surgery,General 1a,3,17,3.28
+87,Surgery,General 1b,6,2,6.03
+88,Surgery,General 2a,4,5,4.08
+89,Surgery,General 2b,3,38,3.63
+90,Surgery,Hepatobiliary,3,48,3.8
+91,Surgery,GIT 1,2,22,2.37
+92,Surgery,GIT 2,1,46,1.77
+93,Surgery,GIT 3,1,20,1.33
+94,Surgery,Image 1,2,15,2.25
+95,Surgery,Image 2,2,24,2.4
+96,Surgery,Image 3,3,9,3.15
+97,Medicine,Cardio 1,3,27,3.45
+98,Medicine,Cardio 2,3,20,3.33
+99,Medicine,Cardio 3,1,13,1.22
+100,Medicine,Rheumatology,2,21,2.35
+101,Medicine,Neurology 1,3,23,3.38
+102,Medicine,Neurology 2,3,23,3.38
+103,Medicine,Neurology 3 and Endocrine,1,44,1.73
+104,Medicine,Kidney,3,18,3.3
+105,Medicine,Respiratory,2,18,2.3
+106,Medicine,Liver GIT Hemat,4,6,4.1
+107,Medicine,Image 1,3,45,3.75
+108,Medicine,Image 2,1,1,1.02
+109,Radiology,Radiology 1,2,13,2.22
+110,Radiology,Radiology 2,1,45,1.75
+111,Radiology,Radiology 3,2,50,2.83
+112,Radiology,Image 1,2,57,2.95
+113,Anaesthesia,Anesthesia 1,1,28,1.47
+114,Anaesthesia,Anesthesia 2,1,32,1.53
+115,Anaesthesia,Anesthesia 3,1,18,1.3
+116,Orthopedics,Part 1,1,24,1.4
+117,Orthopedics,Part 2,2,40,2.67
+118,Orthopedics,Part 3,1,29,1.48
+119,Psychiatry,1,2,36,2.6
+120,Psychiatry,2,2,47,2.78
+121,Psychiatry,Image,0,28,0.47
+122,Dermat,Dermat 1,2,58,2.97
+123,Dermat,Dermat 2,2,40,2.67
+124,Dermat,Dermat 3,1,13,1.22
+125,Dermat,Image,2,11,2.18
+,,,,,278.92
